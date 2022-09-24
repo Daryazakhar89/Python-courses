@@ -15,7 +15,6 @@ class DBHelper:
             )""")
             self.con.commit()
 
-
     def write_to_db(self, catalog):
         with sqlite3.connect(self.db_name + ".db") as self.con:
             self.curs = self.con.cursor()

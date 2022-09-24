@@ -4,6 +4,7 @@ from db_helper import DBHelper
 
 db_helper = DBHelper("restored_mobile", "Restored phone")
 
+
 def parse_page_of_phones_to_list(r):
     soup = BeautifulSoup(r.text, "lxml")
     name_class = "linkTovar"
@@ -50,4 +51,4 @@ def start_parsing():
         print("Something went wrong")
 
 
-# start()
+
