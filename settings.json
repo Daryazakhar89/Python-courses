@@ -1,0 +1,72 @@
+{
+  "SCREEN": {
+    "WIDTH": 600,
+    "HEIGHT": 350
+  },
+  "GAME": {
+    "FPS": 60
+  },
+  "COLORS": {
+    "BLACK": [0, 0, 0],
+    "WHITE": [255, 255, 255],
+    "BLUE": [140, 255, 251]
+  },
+  "HEROES": [
+    {
+      "name": "yellow",
+      "x": 0,
+      "y": 0,
+      "width": 90,
+      "height": 90
+    },
+    {
+      "name": "blue",
+      "x": 90,
+      "y": 0,
+      "width": 84,
+      "height": 86
+    },
+    {
+      "name": "pink",
+      "x": 174,
+      "y": 0,
+      "width": 107,
+      "height": 86
+    },
+    {
+      "name": "red",
+      "x": 280,
+      "y": 0,
+      "width": 80,
+      "height": 85
+    },
+    {
+      "name": "brown",
+      "x": 0,
+      "y": 135,
+      "width": 103,
+      "height": 91
+    },
+    {
+      "name": "orange",
+      "x": 103,
+      "y": 135,
+      "width": 93,
+      "height": 90
+    },
+    {
+      "name": "dark-green",
+      "x": 200,
+      "y": 135,
+      "width": 64,
+      "height": 90
+    },
+    {
+      "name": "light-brown",
+      "x": 273,
+      "y": 135,
+      "width": 88,
+      "height": 90
+    }
+  ]
+}
