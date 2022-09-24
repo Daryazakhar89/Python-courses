@@ -1,7 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
-import sqlite3
+from db_helper import DBHelper
 
+db_helper = DBHelper("restored_mobile", "Restored phone")
 
 def parse_page_of_phones_to_list(r):
     soup = BeautifulSoup(r.text, "lxml")
@@ -37,29 +38,16 @@ def get_restored_phone_catalog():
     return restored_phone_catalog
 
 
-def write_to_bd(catalog):
-    table_name = 'Restored phone'
-    with sqlite3.connect("restored_mobile.bd") as con:
-        curs = con.cursor()
-        curs.execute(f"""DROP TABLE IF EXISTS '{table_name}'""")
-        curs.execute(f"""
-        CREATE TABLE IF NOT EXISTS '{table_name}'(
-            name  TEXT,
-            price  TEXT
-        )""")
-        con.commit()
-
-    for element in catalog:
-        curs.execute(f"INSERT INTO '{table_name}' VALUES ('{element['name']}','{element['price']}')")
-    con.commit()
+def get_phones():
+    return db_helper.read_data()
 
 
-def start():
+def start_parsing():
     try:
         catalog = get_restored_phone_catalog()
-        write_to_bd(catalog)
+        db_helper.write_to_db(catalog)
     except BaseException:
         print("Something went wrong")
 
 
-start()
+# start()
