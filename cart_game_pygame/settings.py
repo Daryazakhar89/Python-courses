@@ -5,7 +5,7 @@ class Settings:
     settings = None
 
     def __init__(self):
-        with open("./settings.json", "r") as file_object:
+        with open("settings.json", "r") as file_object:
             self.settings = json.load(file_object)
 
     def get_settings(self):
