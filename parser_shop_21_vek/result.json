@@ -1,0 +1,2342 @@
+[
+    {
+        "id": 0,
+        "name": "Телевизор Витязь 24LH1207",
+        "price": "399,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 1,
+        "name": "Телевизор Horizont 32LE5051D",
+        "price": "429,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 2,
+        "name": "Телевизор Horizont 43LE7052D",
+        "price": "799,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 3,
+        "name": "Телевизор Blaupunkt 32HB5000T",
+        "price": "599,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 4,
+        "name": "Телевизор Horizont 32LE7051D",
+        "price": "499,00",
+        "availability": "Под заказ, ≈ 26 дней"
+    },
+    {
+        "id": 5,
+        "name": "Телевизор Horizont 24LE5011D",
+        "price": "369,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 6,
+        "name": "Телевизор Blaupunkt 32WB965",
+        "price": "429,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 7,
+        "name": "Телевизор Horizont 32LE7011D",
+        "price": "539,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 8,
+        "name": "Телевизор Витязь 24LH0207",
+        "price": "329,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 9,
+        "name": "Телевизор LG 32LM576BPLD",
+        "price": "999,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 10,
+        "name": "Телевизор Витязь 32LH1212",
+        "price": "499,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 11,
+        "name": "Телевизор Витязь 32LH0212",
+        "price": "439,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 12,
+        "name": "Телевизор LG 43LM6370PLA",
+        "price": "1 349,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 13,
+        "name": "Телевизор LG 43UQ75006LF",
+        "price": "1 499,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 14,
+        "name": "Телевизор LG 55NANO756PA",
+        "price": "2 629,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 15,
+        "name": "Телевизор Blaupunkt 24HB5000T",
+        "price": "499,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 16,
+        "name": "Телевизор Kivi 32H740LW",
+        "price": "799,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 17,
+        "name": "Телевизор Blaupunkt 32FB5000T",
+        "price": "759,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 18,
+        "name": "Телевизор Blaupunkt 40FB5000T",
+        "price": "899,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 19,
+        "name": "Телевизор LG 50UQ75006LF",
+        "price": "1 749,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 20,
+        "name": "Телевизор LG 32LQ630B6LA",
+        "price": "899,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 21,
+        "name": "Телевизор Витязь 43LF1212",
+        "price": "799,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 22,
+        "name": "Телевизор Blaupunkt 32WE265T",
+        "price": "729,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 23,
+        "name": "Телевизор Витязь 32LH0205",
+        "price": "579,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 24,
+        "name": "Телевизор LG 32LQ63006LA",
+        "price": "1 239,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 25,
+        "name": "Телевизор LG 43NANO756PA",
+        "price": "1 929,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 26,
+        "name": "Телевизор Витязь 24LH0205",
+        "price": "435,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 27,
+        "name": "Телевизор LG 65NANO766QA",
+        "price": "3 299,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 28,
+        "name": "Телевизор Samsung UE24N4500AU",
+        "price": "799,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 29,
+        "name": "Телевизор Витязь 32LH1206",
+        "price": "589,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 30,
+        "name": "Телевизор LG 43UP76506LD",
+        "price": "1 899,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 31,
+        "name": "Телевизор LG 50QNED816QA",
+        "price": "3 479,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 32,
+        "name": "Телевизор Kivi 32H740LB",
+        "price": "839,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 33,
+        "name": "Телевизор Kivi 32F790LW",
+        "price": "819,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 34,
+        "name": "Телевизор LG 55UQ75006LF",
+        "price": "2 239,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 35,
+        "name": "Телевизор Витязь 43LF1206",
+        "price": "929,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 36,
+        "name": "Телевизор Samsung UE32T5300AUXRU",
+        "price": "1 199,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 37,
+        "name": "Телевизор Kivi 32F710KB",
+        "price": "849,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 38,
+        "name": "Телевизор LG 50NANO766QA",
+        "price": "2 416,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 39,
+        "name": "Телевизор Kivi 32H510KD",
+        "price": "589,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 40,
+        "name": "Телевизор Samsung UE55AU7002UXRU",
+        "price": "2 399,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 41,
+        "name": "Телевизор Витязь 43LF0205",
+        "price": "929,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 42,
+        "name": "Телевизор Kivi 32F740LB",
+        "price": "799,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 43,
+        "name": "Телевизор Samsung UE55AU8000UXRU",
+        "price": "2 325,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 44,
+        "name": "Телевизор Samsung QE55Q80AAUXRU",
+        "price": "3 499,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 45,
+        "name": "Телевизор Philips 43PFS5505/60",
+        "price": "999,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 46,
+        "name": "Телевизор LG 43NANO766QA",
+        "price": "2 059,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 47,
+        "name": "Телевизор Xiaomi Mi TV P1 43 (L43M6-6ARG) / ELA4624GL",
+        "price": "1 199,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 48,
+        "name": "Телевизор Samsung UE40T5300AUXRU",
+        "price": "1 499,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 49,
+        "name": "Телевизор Kivi 50U740LB",
+        "price": "1 799,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 50,
+        "name": "Телевизор Blaupunkt 32HB5000",
+        "price": "659,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 51,
+        "name": "Телевизор Samsung UE50AU8000UXRU",
+        "price": "2 199,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 52,
+        "name": "Телевизор LG 55UQ76003LD",
+        "price": "2 352,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 53,
+        "name": "Телевизор POLAR Line 43PL52TC-SM",
+        "price": "995,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 54,
+        "name": "Телевизор Philips 55PUS7956/60",
+        "price": "2 199,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 55,
+        "name": "Телевизор Philips 50PUS7956/60",
+        "price": "1 799,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 56,
+        "name": "Телевизор Samsung UE32N4000AU",
+        "price": "999,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 57,
+        "name": "Телевизор Philips 43PFS6825/60",
+        "price": "1 349,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 58,
+        "name": "Телевизор Kivi 55U790LW",
+        "price": "1 799,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 59,
+        "name": "Телевизор LG 43UP80006LA",
+        "price": "2 179,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 60,
+        "name": "Телевизор LG OLED55C14LB",
+        "price": "4 989,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 61,
+        "name": "Телевизор POLAR Line 32PL13TC-SM",
+        "price": "666,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 62,
+        "name": "Телевизор Samsung UE32T4510AUXRU",
+        "price": "1 099,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 63,
+        "name": "Телевизор LG 24TL520V-PZ",
+        "price": "799,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 64,
+        "name": "Телевизор LG OLED55C24LA",
+        "price": "5 399,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 65,
+        "name": "Телевизор Витязь 42LF1207",
+        "price": "899,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 66,
+        "name": "Телевизор Kivi 24H500LB",
+        "price": "529,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 67,
+        "name": "Телевизор Philips 65PUS7406/60",
+        "price": "2 459,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 68,
+        "name": "Телевизор POLAR Line 42PL11TC-SM",
+        "price": "1 105,17",
+        "availability": "В наличии"
+    },
+    {
+        "id": 69,
+        "name": "Телевизор Samsung UE50AU7560UXRU",
+        "price": "2 499,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 70,
+        "name": "Телевизор Prestigio Top 40 / PTV40SS06Y (серый)",
+        "price": "799,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 71,
+        "name": "Телевизор LG 50UQ76003LD",
+        "price": "2 117,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 72,
+        "name": "Телевизор Philips 32PHS5505/60",
+        "price": "669,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 73,
+        "name": "Телевизор JVC LT-55MU508",
+        "price": "1 987,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 74,
+        "name": "Телевизор Blaupunkt 65UN265",
+        "price": "2 199,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 75,
+        "name": "Телевизор Blaupunkt 65UB7000",
+        "price": "2 259,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 76,
+        "name": "Телевизор LG 28LN525V-PZ",
+        "price": "849,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 77,
+        "name": "Телевизор Harper 40F720T",
+        "price": "799,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 78,
+        "name": "Телевизор Samsung UE43AU8000UXRU",
+        "price": "2 249,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 79,
+        "name": "Телевизор Samsung UE32N4010AU",
+        "price": "999,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 80,
+        "name": "Телевизор POLAR P32L32T2CSM",
+        "price": "690,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 81,
+        "name": "Телевизор Витязь 55LU1204",
+        "price": "1 749,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 82,
+        "name": "Телевизор JVC LT-32MU208",
+        "price": "899,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 83,
+        "name": "Телевизор Harper 32R720TS",
+        "price": "699,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 84,
+        "name": "Телевизор Philips 43PUS7406/60",
+        "price": "1 770,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 85,
+        "name": "Телевизор LG 50UQ75001LG",
+        "price": "2 279,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 86,
+        "name": "Телевизор LG 50UP80006LA",
+        "price": "2 299,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 87,
+        "name": "Телевизор LG 43UQ75001LG",
+        "price": "1 799,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 88,
+        "name": "Телевизор Samsung QE50Q60ABUXRU",
+        "price": "2 799,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 89,
+        "name": "Телевизор Horizont 24LE7011D",
+        "price": "455,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 90,
+        "name": "Телевизор Philips 70PUS7956/60",
+        "price": "3 399,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 91,
+        "name": "Телевизор LG 24LP451V-PZ",
+        "price": "739,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 92,
+        "name": "Телевизор POLAR P32L21T2SCSM",
+        "price": "676,88",
+        "availability": "В наличии"
+    },
+    {
+        "id": 93,
+        "name": "Телевизор Samsung QE50Q80AAUXRU",
+        "price": "3 499,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 94,
+        "name": "Телевизор Samsung QE32LS03TBKXRU",
+        "price": "1 940,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 95,
+        "name": "Телевизор POLAR Line 32PL14TC-SM",
+        "price": "605,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 96,
+        "name": "Телевизор POLAR Line 32PL13TC",
+        "price": "557,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 97,
+        "name": "Телевизор LG OLED65C24LA",
+        "price": "8 909,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 98,
+        "name": "Телевизор Samsung QE43QN90AAUXRU",
+        "price": "3 990,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 99,
+        "name": "Телевизор Kivi 40F500LB",
+        "price": "879,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 100,
+        "name": "Телевизор Samsung QE50QN90AAUXRU",
+        "price": "4 990,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 101,
+        "name": "Телевизор SkyLine 50UST5970",
+        "price": "1 260,85",
+        "availability": "В наличии"
+    },
+    {
+        "id": 102,
+        "name": "Телевизор Витязь 43LF0212",
+        "price": "789,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 103,
+        "name": "Телевизор Samsung QE43LS03AAUXRU",
+        "price": "3 790,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 104,
+        "name": "Телевизор Samsung QE75Q80AAUXRU",
+        "price": "8 990,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 105,
+        "name": "Телевизор Kivi 32H540LB",
+        "price": "649,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 106,
+        "name": "Телевизор Samsung QE50LS01TBUXRU",
+        "price": "3 182,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 107,
+        "name": "Телевизор Samsung QE43LS01TAUXRU",
+        "price": "3 490,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 108,
+        "name": "Телевизор Samsung UE50AU7002UXRU",
+        "price": "1 999,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 109,
+        "name": "Телевизор Samsung UE65AU8000UXRU",
+        "price": "3 750,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 110,
+        "name": "Телевизор Kivi 65U740LB",
+        "price": "3 099,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 111,
+        "name": "Телевизор POLAR P40L33T2CSM",
+        "price": "1 049,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 112,
+        "name": "Телевизор POLAR Line 32PL51STC-SM",
+        "price": "761,28",
+        "availability": "В наличии"
+    },
+    {
+        "id": 113,
+        "name": "Телевизор Thomson 65UG6400",
+        "price": "2 500,91",
+        "availability": "В наличии"
+    },
+    {
+        "id": 114,
+        "name": "Телевизор Samsung UE75AU7100UXRU",
+        "price": "4 990,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 115,
+        "name": "Телевизор Samsung UE65AU7570UXRU",
+        "price": "3 490,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 116,
+        "name": "Телевизор Samsung QE55QN90AAUXRU",
+        "price": "5 990,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 117,
+        "name": "Телевизор POLAR P24L24T2C",
+        "price": "514,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 118,
+        "name": "Телевизор POLAR P39L21T2CSM",
+        "price": "899,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 119,
+        "name": "Телевизор LG 60UQ80006LB",
+        "price": "3 199,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 120,
+        "name": "Телевизор Samsung QE50LS03AAUXRU",
+        "price": "4 224,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 121,
+        "name": "Телевизор Philips 43PUS7956/60",
+        "price": "1 999,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 122,
+        "name": "Телевизор Samsung QE55QN85AAUXRU",
+        "price": "5 136,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 123,
+        "name": "Телевизор Samsung QE65QN90AAUXRU",
+        "price": "7 990,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 124,
+        "name": "Телевизор POLAR Line 32PL14TC",
+        "price": "649,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 125,
+        "name": "Телевизор Olto 32T20H",
+        "price": "529,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 126,
+        "name": "Телевизор POLAR Line 55PU52TC-SM",
+        "price": "1 699,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 127,
+        "name": "Телевизор Samsung QE43LS05TAUXRU",
+        "price": "3 960,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 128,
+        "name": "Телевизор Sony KD-65XG7096BR2",
+        "price": "3 699,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 129,
+        "name": "Телевизор Samsung QE65LS03AAUXRU",
+        "price": "6 376,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 130,
+        "name": "Телевизор Harper 24R575T",
+        "price": "529,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 131,
+        "name": "Телевизор Olto 32ST20H",
+        "price": "695,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 132,
+        "name": "Телевизор POLAR Line 55PU11TC-SM",
+        "price": "2 025,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 133,
+        "name": "Телевизор Samsung UE58AU7570UXRU",
+        "price": "2 990,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 134,
+        "name": "Телевизор Samsung UE55AU9070UXRU",
+        "price": "2 999,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 135,
+        "name": "Телевизор Samsung QE65QN87AAUXRU",
+        "price": "7 590,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 136,
+        "name": "Телевизор Samsung QE55QN700AUXRU",
+        "price": "7 990,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 137,
+        "name": "Телевизор Samsung QE75Q77AAUXRU",
+        "price": "8 490,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 138,
+        "name": "Телевизор Horizont 50LE7053D",
+        "price": "999,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 139,
+        "name": "Телевизор Витязь 24LH1103",
+        "price": "499,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 140,
+        "name": "Телевизор Thomson 32HE5606",
+        "price": "699,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 141,
+        "name": "Телевизор LG 32LP500B6LA",
+        "price": "999,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 142,
+        "name": "Телевизор Витязь 32LH1202",
+        "price": "669,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 143,
+        "name": "Телевизор Витязь 24LH1102",
+        "price": "535,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 144,
+        "name": "Телевизор Витязь 24LH1105",
+        "price": "599,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 145,
+        "name": "Телевизор Kivi 43U790LW",
+        "price": "1 549,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 146,
+        "name": "Телевизор Витязь 32LF1210",
+        "price": "699,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 147,
+        "name": "Телевизор Kivi 55U740LB",
+        "price": "1 999,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 148,
+        "name": "Телевизор Samsung UE70AU7100UXRU",
+        "price": "4 490,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 149,
+        "name": "Телевизор Xiaomi Mi TV P1 50 (L50M6-6ARG) / ELA4688GL",
+        "price": "1 599,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 150,
+        "name": "Телевизор Harper 43U750TS",
+        "price": "1 079,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 151,
+        "name": "Телевизор Harper 32R470T",
+        "price": "529,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 152,
+        "name": "Телевизор LG 43LM5772PLA",
+        "price": "1 499,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 153,
+        "name": "Телевизор Harper 32R670TS",
+        "price": "572,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 154,
+        "name": "Телевизор LG 32LM6350",
+        "price": "1 649,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 155,
+        "name": "Телевизор Thomson T55USM7030 (черный)",
+        "price": "2 763,54",
+        "availability": "В наличии"
+    },
+    {
+        "id": 156,
+        "name": "Телевизор LG 32LM577BPLA",
+        "price": "1 269,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 157,
+        "name": "Телевизор Витязь 24LH0201",
+        "price": "454,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 158,
+        "name": "Телевизор Витязь 50LU1209",
+        "price": "1 480,46",
+        "availability": "В наличии"
+    },
+    {
+        "id": 159,
+        "name": "Телевизор POLAR P32L34T2C",
+        "price": "528,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 160,
+        "name": "Телевизор Samsung QE60Q65AAUXRU",
+        "price": "4 490,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 161,
+        "name": "Телевизор Samsung UE43AU9070UXRU",
+        "price": "2 399,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 162,
+        "name": "Телевизор Samsung QE55Q77AAUXRU",
+        "price": "4 290,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 163,
+        "name": "Телевизор POLAR P50L21T2SCSM",
+        "price": "1 428,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 164,
+        "name": "Телевизор LG 70UQ80006LB",
+        "price": "4 919,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 165,
+        "name": "Телевизор Harper 43F660T",
+        "price": "934,93",
+        "availability": "В наличии"
+    },
+    {
+        "id": 166,
+        "name": "Телевизор POLAR P32L23T2C",
+        "price": "569,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 167,
+        "name": "Телевизор POLAR P32L25T2C",
+        "price": "593,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 168,
+        "name": "Телевизор POLAR P24L23T2C",
+        "price": "514,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 169,
+        "name": "Телевизор POLAR P50L22T2SCSM",
+        "price": "1 452,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 170,
+        "name": "Телевизор Sony KD-65X81J",
+        "price": "4 970,69",
+        "availability": "В наличии"
+    },
+    {
+        "id": 171,
+        "name": "Телевизор Samsung UE70AU7570UXRU",
+        "price": "4 390,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 172,
+        "name": "Телевизор LG 43UQ76003LD",
+        "price": "2 107,99",
+        "availability": "В наличии"
+    },
+    {
+        "id": 173,
+        "name": "Телевизор LG 43NANO756QA",
+        "price": "2 489,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 174,
+        "name": "Телевизор POLAR Line 24PL12TC",
+        "price": "529,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 175,
+        "name": "Телевизор POLAR P43L32T2CSM",
+        "price": "1 156,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 176,
+        "name": "Телевизор Samsung QE55QN87AAUXRU",
+        "price": "5 590,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 177,
+        "name": "Телевизор Harper 32R720T",
+        "price": "625,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 178,
+        "name": "Телевизор POLAR Line 32PL51TC",
+        "price": "599,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 179,
+        "name": "Телевизор Harper 50U750TS",
+        "price": "1 425,83",
+        "availability": "В наличии"
+    },
+    {
+        "id": 180,
+        "name": "Телевизор LG 43UQ76009LC",
+        "price": "2 199,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 181,
+        "name": "Телевизор LG 50UQ80006LB",
+        "price": "2 229,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 182,
+        "name": "Телевизор LG 43NANO776QA",
+        "price": "2 399,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 183,
+        "name": "Телевизор Samsung QE75Q60ABUXRU",
+        "price": "6 990,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 184,
+        "name": "Телевизор Sony KD-75X81J",
+        "price": "6 599,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 185,
+        "name": "Телевизор Samsung UE85AU8000UXRU",
+        "price": "8 990,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 186,
+        "name": "Телевизор Sony KD-85X85TJ",
+        "price": "13 011,94",
+        "availability": "В наличии"
+    },
+    {
+        "id": 187,
+        "name": "Телевизор Sony XR-65A80J",
+        "price": "13 107,02",
+        "availability": "В наличии"
+    },
+    {
+        "id": 188,
+        "name": "Телевизор Artel 32AH90G (черный/серебристый)",
+        "price": "445,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 189,
+        "name": "Телевизор Fox 32DTV220C",
+        "price": "498,42",
+        "availability": "В наличии"
+    },
+    {
+        "id": 190,
+        "name": "Телевизор Harper 32R670T",
+        "price": "499,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 191,
+        "name": "Телевизор Telefunken TF-LED32S09T2",
+        "price": "512,34",
+        "availability": "В наличии"
+    },
+    {
+        "id": 192,
+        "name": "Телевизор Telefunken TF-LED32S77T2",
+        "price": "512,34",
+        "availability": "В наличии"
+    },
+    {
+        "id": 193,
+        "name": "Телевизор Telefunken TF-LED32S49T2S",
+        "price": "585,08",
+        "availability": "В наличии"
+    },
+    {
+        "id": 194,
+        "name": "Телевизор Harper 24R490T",
+        "price": "599,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 195,
+        "name": "Телевизор Telefunken TF-LED32S12T2S",
+        "price": "600,89",
+        "availability": "В наличии"
+    },
+    {
+        "id": 196,
+        "name": "Телевизор TCL 32S6200",
+        "price": "765,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 197,
+        "name": "Телевизор SkyLine 40LST5970",
+        "price": "818,14",
+        "availability": "В наличии"
+    },
+    {
+        "id": 198,
+        "name": "Телевизор Telefunken TF-LED40S85T2S",
+        "price": "951,50",
+        "availability": "В наличии"
+    },
+    {
+        "id": 199,
+        "name": "Телевизор SkyLine 43LT5900",
+        "price": "967,74",
+        "availability": "В наличии"
+    },
+    {
+        "id": 200,
+        "name": "Телевизор Fox 50AOS400C",
+        "price": "1 199,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 201,
+        "name": "Телевизор LG 43UQ81009LC",
+        "price": "2 199,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 202,
+        "name": "Телевизор LG 43UQ90006LD",
+        "price": "2 371,85",
+        "availability": "В наличии"
+    },
+    {
+        "id": 203,
+        "name": "Телевизор LG 50UQ81009LC",
+        "price": "2 606,23",
+        "availability": "В наличии"
+    },
+    {
+        "id": 204,
+        "name": "Телевизор LG 50NANO766PA",
+        "price": "2 709,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 205,
+        "name": "Телевизор Avel Smart AVS240WS (белый)",
+        "price": "2 764,00",
+        "availability": "Под заказ, ≈ 10 дней"
+    },
+    {
+        "id": 206,
+        "name": "Телевизор Avel Smart AVS240KS (черный)",
+        "price": "2 934,00",
+        "availability": "Под заказ, ≈ 10 дней"
+    },
+    {
+        "id": 207,
+        "name": "Телевизор Avel Smart AVS240KS (белый)",
+        "price": "2 987,00",
+        "availability": "Под заказ, ≈ 10 дней"
+    },
+    {
+        "id": 208,
+        "name": "Телевизор LG 55UQ81009LC",
+        "price": "3 131,99",
+        "availability": "В наличии"
+    },
+    {
+        "id": 209,
+        "name": "Телевизор Avel Smart AVS240KS (Magic Mirror)",
+        "price": "3 605,00",
+        "availability": "Под заказ, ≈ 10 дней"
+    },
+    {
+        "id": 210,
+        "name": "Телевизор LG 43LT340C",
+        "price": "3 799,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 211,
+        "name": "Телевизор LG 55UT640S",
+        "price": "5 758,08",
+        "availability": "В наличии"
+    },
+    {
+        "id": 212,
+        "name": "Телевизор Samsung QE65LS01TBUXRU",
+        "price": "6 490,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 213,
+        "name": "Телевизор Sony KD-75X85TJ",
+        "price": "9 016,94",
+        "availability": "В наличии"
+    },
+    {
+        "id": 214,
+        "name": "Телевизор Samsung QE75LS03AAUXRU",
+        "price": "9 990,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 215,
+        "name": "Телевизор Samsung QE75QN700AUXRU",
+        "price": "14 990,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 216,
+        "name": "Телевизор Samsung QE65QN900AUXRU",
+        "price": "19 990,00",
+        "availability": "В наличии"
+    },
+    {
+        "id": 217,
+        "name": "Телевизор Artel 32AH90G (черный)",
+        "price": "447,45",
+        "availability": "В наличии"
+    },
+    {
+        "id": 218,
+        "name": "Телевизор Samsung UE65BU8000UXRU",
+        "price": "3 857,57",
+        "availability": "Под заказ, ≈ 12 дней"
+    },
+    {
+        "id": 219,
+        "name": "Телевизор JVC LT-32MU108",
+        "price": null,
+        "availability": "Только уценка"
+    },
+    {
+        "id": 220,
+        "name": "Телевизор LG 24TN520S-PZ",
+        "price": null,
+        "availability": "Только уценка"
+    },
+    {
+        "id": 221,
+        "name": "Телевизор Horizont 22LE5511D (черный)",
+        "price": null,
+        "availability": "Только уценка"
+    },
+    {
+        "id": 222,
+        "name": "Телевизор Xiaomi Mi TV P1 32 (L32M6-6ARG) / ELA4614GL",
+        "price": null,
+        "availability": "Только уценка"
+    },
+    {
+        "id": 223,
+        "name": "Телевизор Blaupunkt 43FE265T",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 224,
+        "name": "Телевизор Blaupunkt 32WC265T",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 225,
+        "name": "Телевизор Kivi 32H710KB",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 226,
+        "name": "Телевизор Horizont 32LE7511D",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 227,
+        "name": "Телевизор Kivi 40F730GR",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 228,
+        "name": "Телевизор Blaupunkt 43UB6000",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 229,
+        "name": "Телевизор Blaupunkt 50UB7000",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 230,
+        "name": "Телевизор Horizont 32LE5511D",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 231,
+        "name": "Телевизор Blaupunkt 43UB7000",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 232,
+        "name": "Телевизор Prestigio Top 32 / PTV32SS04Z (черный)",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 233,
+        "name": "Телевизор Blaupunkt 50UN265T",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 234,
+        "name": "Телевизор Blaupunkt 43UB7000T",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 235,
+        "name": "Телевизор Blaupunkt 40FB5000",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 236,
+        "name": "Телевизор Kivi 50U600KD",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 237,
+        "name": "Телевизор Thomson T32RTE1300 (черный)",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 238,
+        "name": "Телевизор Samsung UE50TU8000UXRU",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 239,
+        "name": "Телевизор Horizont 43LE7022D",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 240,
+        "name": "Телевизор Horizont 24LE5511D (черный)",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 241,
+        "name": "Телевизор Horizont 32LE5011D",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 242,
+        "name": "Телевизор Blaupunkt 55UB7000",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 243,
+        "name": "Телевизор Kivi 50U730GR",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 244,
+        "name": "Телевизор LG 43LM5777PLC",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 245,
+        "name": "Телевизор Kivi 55UR50GR",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 246,
+        "name": "Телевизор Thomson T40FSM6020",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 247,
+        "name": "Телевизор Thomson T24RTE1280 (черный)",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 248,
+        "name": "Телевизор Витязь 32LH0202",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 249,
+        "name": "Телевизор Thomson T32RTE1310 (черный)",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 250,
+        "name": "Телевизор Kivi 50U710KB",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 251,
+        "name": "Телевизор LG 55UP76506LD",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 252,
+        "name": "Телевизор Samsung UE65AU7100UXRU",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 253,
+        "name": "Телевизор LG 50UP76506LD",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 254,
+        "name": "Телевизор Samsung UE50AU7100UXRU",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 255,
+        "name": "Телевизор TCL 50P615",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 256,
+        "name": "Телевизор Thomson T32RTL6030 (черный)",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 257,
+        "name": "Телевизор Samsung UE32N5000AU",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 258,
+        "name": "Телевизор Kivi 40F740LB",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 259,
+        "name": "Телевизор Prestigio PTV24SS06Z CIS BK",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 260,
+        "name": "Телевизор Skyworth 40E2A",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 261,
+        "name": "Телевизор Kivi 24H740LW",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 262,
+        "name": "Телевизор LG 55NANO766QA",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 263,
+        "name": "Телевизор Blaupunkt 58UN265",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 264,
+        "name": "Телевизор Prestigio Muze 40 / PTV40SN04Y (черный)",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 265,
+        "name": "Телевизор JVC LT-43MU508",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 266,
+        "name": "Телевизор Kivi 43U700GR",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 267,
+        "name": "Телевизор Blaupunkt 50UB7000T",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 268,
+        "name": "Телевизор Samsung UE58AU7160UXRU",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 269,
+        "name": "Телевизор Thomson 43UG6400",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 270,
+        "name": "Телевизор Xiaomi Mi TV P1 55 / L55M6-6ARG/ELA4616GL",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 271,
+        "name": "Телевизор LG 50NANO756PA",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 272,
+        "name": "Телевизор Samsung QE50Q60TAUXRU",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 273,
+        "name": "Телевизор Samsung QE65Q80AAUXRU",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 274,
+        "name": "Телевизор Thomson T32RTE1250 (черный)",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 275,
+        "name": "Телевизор LG 65UP76506LD",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 276,
+        "name": "Телевизор LG OLED65C14LB",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 277,
+        "name": "Телевизор Horizont 22LE5511D (белый)",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 278,
+        "name": "Телевизор Prestigio Top 43 / PTV43SS06Y",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 279,
+        "name": "Телевизор JVC LT-42MU310",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 280,
+        "name": "Телевизор Prestigio PTV50SS06X CIS BK",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 281,
+        "name": "Телевизор Samsung UE43AU7002UXRU",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 282,
+        "name": "Телевизор Kivi 43U740LB",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 283,
+        "name": "Телевизор Horizont 24LE5511D (белый)",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 284,
+        "name": "Телевизор JVC LT-32MU380",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 285,
+        "name": "Телевизор TCL 55P615",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 286,
+        "name": "Телевизор Blaupunkt 55UB7000T",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 287,
+        "name": "Телевизор POLAR Line 43PU11TC-SM",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 288,
+        "name": "Телевизор Thomson T50USL7010 (черный)",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 289,
+        "name": "Телевизор Horizont 65LE7053D",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 290,
+        "name": "Телевизор JVC LT-32M585W",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 291,
+        "name": "Телевизор LG 43UJ630V",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 292,
+        "name": "Телевизор Harper 55U660TS",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 293,
+        "name": "Телевизор Harper 65U660TS",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 294,
+        "name": "Телевизор Samsung UE70TU7100UXRU",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 295,
+        "name": "Телевизор LG 32LM6350PLA",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 296,
+        "name": "Телевизор JVC LT-50MU508",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 297,
+        "name": "Телевизор Витязь 32LF1211 (белый)",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 298,
+        "name": "Телевизор Prestigio Top 40 / PTV40SS06Y (черный)",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 299,
+        "name": "Телевизор Samsung UE65AU7500UXRU",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 300,
+        "name": "Телевизор LG 65UQ75001LG",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 301,
+        "name": "Телевизор LG 65UP75006LF",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 302,
+        "name": "Телевизор Philips 32PHS6825/60",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 303,
+        "name": "Телевизор POLAR P43L21T2SCSM",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 304,
+        "name": "Телевизор POLAR P55U51T2CSM",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 305,
+        "name": "Телевизор POLAR P50U51T2SCSM",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 306,
+        "name": "Телевизор Samsung UE85AU7100UXRU",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 307,
+        "name": "Телевизор POLAR Line 32PL54TC-SM",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 308,
+        "name": "Телевизор LG 75UP80006LA",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 309,
+        "name": "Телевизор Philips 58PUS8506/60 (серебристый)",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 310,
+        "name": "Телевизор Samsung QE65Q70AAUXRU",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 311,
+        "name": "Телевизор Sony XR-65X90J",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 312,
+        "name": "Телевизор Harper 24R470T",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 313,
+        "name": "Телевизор LG 75UP81006LA",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 314,
+        "name": "Телевизор POLAR Line 43PL51TC-SM",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 315,
+        "name": "Телевизор SkyLine 43LST5975",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 316,
+        "name": "Телевизор POLAR Line 65PU51TC-SM",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 317,
+        "name": "Телевизор Samsung UE75AU9070UXRU",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 318,
+        "name": "Телевизор Harper 40F660TS",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 319,
+        "name": "Телевизор Horizont 32LE5511D (белый)",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 320,
+        "name": "Телевизор LG OLED83C2RLA",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 321,
+        "name": "Телевизор Samsung UE50TU7002UXRU",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 322,
+        "name": "Телевизор Thomson T32RTM6020 (черный)",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 323,
+        "name": "Телевизор Kivi 32F710KW",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 324,
+        "name": "Телевизор Horizont 55LE7053D",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 325,
+        "name": "Телевизор Thomson T43FSL6010 (черный)",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 326,
+        "name": "Телевизор Samsung QE55Q60ABUXRU",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 327,
+        "name": "Телевизор LG 43UP75006LF",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 328,
+        "name": "Телевизор Thomson T50USL7000 (черный)",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 329,
+        "name": "Телевизор Витязь 65LU1204",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 330,
+        "name": "Телевизор LG 32LM558BPLC",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 331,
+        "name": "Телевизор LG 32LQ570B6LA",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 332,
+        "name": "Телевизор LG 32LQ630B6LA",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 333,
+        "name": "Телевизор LG 65NANO756PA",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 334,
+        "name": "Телевизор POLAR P42L21T2CSM",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 335,
+        "name": "Телевизор POLAR P39L32T2C",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 336,
+        "name": "Телевизор Samsung UE55AU7500UXRU",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 337,
+        "name": "Телевизор POLAR P50U53T2CSM",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 338,
+        "name": "Телевизор Samsung UE43AU7500UXRU",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 339,
+        "name": "Телевизор Harper 24R490TS",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 340,
+        "name": "Телевизор LG OLED55C1RLA",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 341,
+        "name": "Телевизор POLAR Line 40PL11TC-SM",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 342,
+        "name": "Телевизор Витязь 42LF0207",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 343,
+        "name": "Телевизор Harper 32R610TS",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 344,
+        "name": "Телевизор POLAR Line 32PL12TC",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 345,
+        "name": "Телевизор POLAR Line 42PL11TC",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 346,
+        "name": "Телевизор Thomson T55USL7010 (черный)",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 347,
+        "name": "Телевизор Samsung UE50AU7500UXRU",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 348,
+        "name": "Телевизор POLAR Line 32PL53TC",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 349,
+        "name": "Телевизор POLAR Line 24PL51TC-SM",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 350,
+        "name": "Телевизор SkyLine 32YST5970",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 351,
+        "name": "Телевизор Samsung UE75AU7500UXRU",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 352,
+        "name": "Телевизор Samsung UE43AU7170UXRU",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 353,
+        "name": "Телевизор POLAR Line 43PL51STC-SM",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 354,
+        "name": "Телевизор POLAR Line 50PL51TC-SM",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 355,
+        "name": "Телевизор POLAR P65U51T2CSM",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 356,
+        "name": "Телевизор Harper 43F720T",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 357,
+        "name": "Телевизор LG 55NANO806PA",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 358,
+        "name": "Телевизор LG 65NANO926PB",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 359,
+        "name": "Телевизор LG 65NANO906PB",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 360,
+        "name": "Телевизор LG OLED65C1RLA",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 361,
+        "name": "Телевизор Harper 50U660TS",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 362,
+        "name": "Телевизор Samsung UE49N5540AU",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 363,
+        "name": "Телевизор POLAR P40L34T2CSM Smart TV (Yandex TV)",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 364,
+        "name": "Телевизор Sony XR-85X95J",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 365,
+        "name": "Телевизор Sony KD-65X85TJ",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 366,
+        "name": "Телевизор LG 55UQ91009LD",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 367,
+        "name": "Телевизор Sony XR-65A90J",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 368,
+        "name": "Телевизор Sony KD-65AG9BR2",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 369,
+        "name": "Телевизор LG 55NANO816PA",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 370,
+        "name": "Телевизор LG 65NANO776QA",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 371,
+        "name": "Телевизор Sony XR-55A90J ",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 372,
+        "name": "Телевизор SkyLine 40LT5900",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 373,
+        "name": "Телевизор Samsung QE65QN85AAUXRU",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 374,
+        "name": "Телевизор Sony KD-55X81J",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 375,
+        "name": "Телевизор Olto 43ST20U",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 376,
+        "name": "Телевизор Avel Smart AVS240WS (черный)",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 377,
+        "name": "Телевизор LG 43UP751C0ZF",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 378,
+        "name": "Телевизор JVC LT-42MU308",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 379,
+        "name": "Телевизор TCL 65C825",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 380,
+        "name": "Телевизор Harper 55U750TS",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 381,
+        "name": "Телевизор Olto 43ST20H",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 382,
+        "name": "Телевизор Olto 43T20H",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 383,
+        "name": "Телевизор Artel UA43H3401",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 384,
+        "name": "Телевизор Fox 32AOS411C",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 385,
+        "name": "Телевизор POLAR Line 32PL55TC-SM",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 386,
+        "name": "Телевизор POLAR P40L31T2SCSM",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 387,
+        "name": "Телевизор BBK 24LEX-7143/TS2C",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 388,
+        "name": "Телевизор Artel UA32H4101",
+        "price": null,
+        "availability": "Нет на складе"
+    },
+    {
+        "id": 389,
+        "name": "Телевизор Artel 43AF90G (черный/серебристый)",
+        "price": null,
+        "availability": "Нет на складе"
+    }
+]
