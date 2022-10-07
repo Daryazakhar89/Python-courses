@@ -16,5 +16,6 @@
     height: 500px;
     width: 500px;
     object-fit: contain;
+    border: 10px solid #c7b8bd;
 }
 
