@@ -1,10 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+{% extends "my_site/main.html "%}
 
-</body>
-</html>
+{% block title %}Главная страница{% endblock %}
+{% block content %}
+<div class="container">
+<h1>Новости</h1>
+    {% for i in my_site %}
+<div class="alert alert-warning mt-2">
+    <h2>{{i.photo}}</h2>
+
+</div>
+    {% endfor %}
+</div>
+{% endblock %}
