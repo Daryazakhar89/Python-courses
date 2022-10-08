@@ -1,21 +1,351 @@
-#main-page {
-    background-color:bisque;
+.main {
+    background-color: black !important;
 }
 
-.image-logo {
-    border-radius: 50%;
-}
-
-#carouselExampleControls {
+.home {
     margin: 0 auto;
-    height: 500px;
-    width: 500px;
+    width: 1202px;
+    height: 761.47px;
 }
 
-.carousel-item > img {
-    height: 500px;
-    width: 500px;
-    object-fit: contain;
-    border: 10px solid #c7b8bd;
+.home-header {
+    margin: 0 auto;
+    width: 1110px;
+    height: 48px;
 }
 
+.home-header-nav {
+    /* Auto layout */
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 145px;
+
+    width: 710px;
+    height: 21px;
+}
+
+.home-header-nav-link {
+    width: 85px;
+    height: 21px;
+    text-decoration: none;
+    font-family: 'Arodora Pro';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+
+    /* text */
+
+    color: #E4E4E4;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.header-title-greeting {
+    position: absolute;
+    width: 205px;
+    height: 39px;
+    left: 375px;
+    top: 268px;
+
+    font-family: 'NEXT ART';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 54px;
+    display: flex;
+    align-items: center;
+
+    /* text */
+
+    color: #E4E4E4;
+}
+
+.header-title-title {
+    position: absolute;
+    width: 447px;
+    height: 136px;
+    left: 375px;
+    top: 334px;
+
+    font-family: 'NEXT ART';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 82px;
+    display: flex;
+    align-items: center;
+
+    /* text */
+
+    color: #E4E4E4;
+
+}
+
+.header-title-description {
+    position: absolute;
+    width: 430px;
+    height: 74px;
+    left: 375px;
+    top: 497px;
+
+    font-family: 'Arodora Pro';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+
+    /* text */
+
+    color: #E4E4E4;
+}
+
+.header-title-action {
+    position: absolute;
+    width: 200px;
+    height: 47px;
+    left: 375px;
+    top: 598px;
+
+    /* orange */
+
+    background: linear-gradient(87.32deg, #E2A300 4.47%, #E29500 95.53%);
+    box-shadow: 0px 2px 13px rgba(226, 158, 0, 0.48);
+    border-radius: 6px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-title-action:hover {
+    cursor: pointer;
+}
+
+.header-title-action-text {
+    font-family: 'NEXT ART';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+
+.developer {
+    position: absolute;
+    width: 575px;
+    height: 575px;
+    left: 1002px;
+    top: 212px;
+}
+
+.developer-circle {
+    border-radius: 50%;
+    box-sizing: border-box;
+    /* position: relative; */
+    width: 575px;
+    height: 575px;
+
+    /* blu */
+
+    border: 67px solid #00C4F0;
+    filter: drop-shadow(0px 0px 152px rgba(0, 196, 240, 0.42));
+}
+
+.developer-portfolio-buttons>div {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    background: linear-gradient(130.68deg, #414141 0%, #2D2D2D 100.52%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.developer-portfolio-buttons>div:hover {
+    cursor: pointer;
+    border: 3px solid #E29500;
+}
+
+.developer-portfolio-button:nth-child(1) {
+    position: absolute;
+    left: 1021px;
+    top: 244px;
+}
+
+.developer-portfolio-button:nth-child(2) {
+    position: absolute;
+    left: 945px;
+    top: 410px;
+}
+
+.developer-portfolio-button:nth-child(3) {
+    position: absolute;
+    left: 976px;
+    top: 598px;
+}
+
+.developer-portfolio-button:nth-child(4) {
+    position: absolute;
+    left: 1419px;
+    top: 212px;
+}
+
+.developer-portfolio-button-text {
+    text-transform: uppercase;
+    font-family: 'NEXT ART';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 41px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    color: #00C4F0;
+}
+
+.about-me {
+    position: absolute;
+    width: 1920px;
+    height: 1847px;
+    left: 0px;
+    top: 787px;
+
+    background: linear-gradient(130.68deg, #414141 0%, #2D2D2D 100.52%);
+}
+
+.about-me-skills {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 100px;
+}
+
+.about-me-skill {
+    width: 270px;
+    height: 270px;
+    box-sizing: border-box;
+    background: #2A2A2A;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.47);
+    border-radius: 29px;
+    margin: 0 20px;
+}
+
+.about-me-skill:hover {
+    cursor: pointer;
+    border: 3px solid #E29500;
+}
+
+.about-me-text {
+    font-family: 'Arodora Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 29px;
+    color: #E4E4E4;
+    display: flex;
+    align-items: center;
+}    
+
+.footer {
+    position: absolute;
+    top: 3588px;
+    width: 100%;
+    height: 238px;
+    background: linear-gradient(130.68deg, #414141 0%, #2D2D2D 100.52%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-content {
+    position: absolute;
+    width: 773px;
+    height: 138px;
+}
+
+.footer-font {
+    font-family: 'Arodora Pro';
+    font-style: normal;
+    text-decoration: none;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    color: #E4E4E4;
+}
+
+.footer-content-nav {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 18px;
+    width: 85px;
+}
+
+.footer-content-nav-link {
+    width: 80px;
+    height: 21px;
+    display: flex;
+    align-items: center;
+}
+
+.footer-content-contacts {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: stretch;
+    position: absolute;
+    top: 0;
+    left: 200px;
+    width: 244px;
+    gap: 18px;
+}
+
+.footer-content-text {
+    margin: 0;
+}
+
+.footer-extra {
+    position: absolute;
+    width: 240px;
+    height: 100%;
+    top: 0;
+    right: 0;
+}
+
+.footer-extra-information-button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    /* orange */
+
+    background: linear-gradient(87.32deg, #E2A300 4.47%, #E29500 95.53%);
+    transform: rotate(90deg);
+}
+
+.footer-extra-information-copyright {
+    position: absolute;
+    bottom: 0;
+    right: 32px;
+    margin: 0;
+}
