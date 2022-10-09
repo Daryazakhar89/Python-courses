@@ -226,7 +226,6 @@
     height: 1847px;
     left: 0px;
     top: 787px;
-
     background: linear-gradient(130.68deg, #414141 0%, #2D2D2D 100.52%);
 }
 
@@ -264,6 +263,14 @@
     display: flex;
     align-items: center;
 }    
+
+.about-me-group {
+    position: relative;
+    top: 200px;
+    margin: 0 auto;
+    width: 1102px;
+    height: 950px;
+}
 
 .footer {
     position: absolute;
@@ -349,4 +356,102 @@
     bottom: 0;
     right: 32px;
     margin: 0;
+}
+
+.circle-white {
+    border-radius: 50%;
+    box-sizing: border-box;
+    position: relative;
+    width: 792px;
+    height: 792px;
+    left: -182px;
+    top: 98px;
+    
+    /* text */
+    
+    border: 89px solid #E4E4E4;
+    filter: drop-shadow(0px 4px 70px rgba(255, 255, 255, 0.25))
+}
+
+.circles {
+    z-index: 0;
+}
+
+.circle-orange {
+    border-radius: 50%;
+    box-sizing: border-box;
+     position: absolute;
+    width: 356px;
+    height: 356px;
+    left: 686px;
+    top: 54px;
+    border: 34px solid #E2A200;
+    filter: drop-shadow(0px 4px 70px rgba(226, 162, 0, 0.25));
+}
+
+.circle-blue {
+    border-radius: 50%;
+    box-sizing: border-box;
+    position: absolute;
+    width: 486px;
+    height: 486px;
+    left: 555px;
+    top: 529px;
+    
+    /* blu */
+    
+    border: 55px solid #00C4F0;
+    filter: drop-shadow(0px 4px 70px rgba(0, 193, 236, 0.25));
+}
+
+.text-about-me {
+    position: absolute;
+    z-index: 1;
+    text-transform: uppercase;
+    width: 246px;
+    height: 54px;
+    left: 365px;
+    top: 26px;
+    font-family: 'NEXT ART';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 54px;
+    display: flex;
+    align-items: center;
+
+    /* text */
+
+    color: #E4E4E4;
+}
+.description-about-me-frame {
+    position: absolute;
+    z-index: 1;
+    width: 496px;
+    height: 822px;
+    left: 302px;
+    top: 83px;
+    
+    background: #2C2C2C;
+    border-radius: 14px;
+}
+
+.description-about-me {
+    position: absolute;
+    width: 370px;
+    height: 696px;
+    left: 63px;
+    top: 63px;
+    /* z-index: 1; */
+    font-family: 'Arodora Pro';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
+
+    color: #FFFFFF;
+
 }
