@@ -2,9 +2,15 @@ from django.db import models
 
 
 class MySite(models.Model):
-    photo = models.ImageField(upload_to='photo/%Y/%m/%d/')
+    title = models.CharField("Название", max_length = 50, blank=True)
+    content = models.TextField("Описание письма", blank=True)
+
+
+    def __str__(self):
+        return self.title
 
     class Meta:
-        verbose_name = "My work"
+        verbose_name = "work request"
         verbose_name_plural = "My works"
+        ordering = ['-title']
 
