@@ -1,4 +1,6 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect
+from .models import MySite
+from .forms import MySiteForms
 
 
 def main(request):
@@ -6,4 +8,10 @@ def main(request):
 
 
 def my_request(request):
-    return render(request, 'my_site/my_request.html')
+    if request.method == 'POST':
+        form = MySiteForms(request.POST)
+        if form.is_valid():
+            form.save()
+            return redirect('/')
+    form = MySiteForms()
+    return render(request, 'my_site/my_request.html', {'form': form})

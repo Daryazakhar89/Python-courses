@@ -598,3 +598,11 @@ background: url("../img/my_photo1.png");
     background: url("../img/images1.jpg");
     border-radius: 10%;
 }
+
+.form {
+    color: white;
+}
+
+.color-letter {
+    color: white;
+}
