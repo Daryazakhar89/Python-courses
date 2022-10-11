@@ -606,3 +606,23 @@ background: url("../img/my_photo1.png");
 .color-letter {
     color: white;
 }
+
+#id_title.form-control {
+    width: 30% ;
+    margin-left: 600px;
+}
+
+#id_content.form-control {
+    width: 30%;
+    height: 100px;
+    margin-left: 600px;
+}
+
+.color-letter {
+    color: #E2A200;
+    margin-left: 750px;
+}
+
+.btn-warning {
+    margin-left: 800px;
+}
