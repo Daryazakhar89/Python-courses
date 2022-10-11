@@ -5,6 +5,7 @@
 <head>
   <meta charset="UTF-8">
   <title>{% block title %}Programmer's portfolio{% endblock %}</title>
+  <link rel="shortcut icon" href="{% static 'my_site/img/favicon.jpg' %}" type="image/png">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
   <link rel="stylesheet" href="{% static 'my_site/css/style.css' %}">
 </head>
@@ -14,19 +15,7 @@
     {% block home %}
     <div class="home">
       <header class="home-header">
-        {% comment %} <div class="home-header-logo">
-          <img src="" alt="" />
-          <p></p>
-        </div> {% endcomment %}
         {% include 'my_site/navigation.html' %}
-        {% comment %} {% block home-navigation %}
-        <nav class="home-header-nav">
-          <a href="#" class="home-header-nav-link">Home</a>
-          <a href="#about-me" class="home-header-nav-link">About me</a>
-          <a href="#portfolio-content" class="home-header-nav-link">Portfolio</a>
-          <a href="#footer" class="home-header-nav-link">Contact</a>
-        </nav>
-        {% endblock home-navigation %} {% endcomment %}
         {% block home-title %}
         <div class="header-title">
           <div class="header-title-greeting">Hello</div>
@@ -61,6 +50,7 @@
       </header>
       {% block about-me %}
       <div id="about-me" class="about-me">
+        <p class="about-me-text-my-skills">My skills</p>
         <div class="about-me-skills">
           <div class="about-me-skill">
             <div class="about-me-icon"></div>
@@ -93,13 +83,13 @@
           </div>
           <div class="text-about-me">About me</div>
           <div class="description-about-me-frame">
-            <div class="description-about-me">Hello again everyone! So, you already know that my name is Gleb. A little
-              about myself: student, 18 y.o., athlete-football player, I love creativity since childhood, I live in
-              Donetsk, Ukraine. Why programming? Everything is elementary - I like it, the profession of the future,
-              thanks to which I can provide myself and fulfill my dream - travel, at the moment I specialize in web
-              design, front-end and back-end development, turnkey websites. Why should you choose me? I approach each
-              order with great responsibility and love, as I want to make a name for myself, exclude plagiarism and
-              negligence, fully study the project, the client and its target audience, work for quality, trying to make an
+            <div class="description-about-me">Hello again everyone! So, you already know that my name is Darya. A little
+              about myself: programmer, 33 y.o., I love creativity since childhood, I live in
+              Minsk, Belarus. Why programming? Everything is elementary - I like it, the profession of the future,
+              thanks to which I can provide myself and fulfill my dream - travel, at the moment I specialize in Python development,
+              front-end and back-end development, work with databases. Why should you choose me? I approach each
+              order with great responsibility and love, as I want to make a name for myself, fully study the project, the client 
+              and its target audience, work for quality, trying to make an
               order as quickly and uniquely as possible, taking into account all the edits and wishes.
               By trusting me, you will get the maximum return for your project, save your nerves and time.
               If you are interested in me , you want to know something more or use my services, then I will provide all my
@@ -115,17 +105,14 @@
       </div>
       {% endblock about-me %}
     </div>
-    {% endblock home %}
-    
+    {% endblock home %}  
     {% block portfolio %}
     <div id="portfolio-content" class="portfolio-content">
       <div class="portfolio">portfolio</div>
-      <div class="portfolio-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Donec ut orci eu elit consequat posuere ut sed elit. Nulla et tristique felis. Morbi
-        quis orci non purus blandit fringilla. Etiam et mollis eros. Duis venenatis vulputate
-        lacus, non tristique eros placerat vel. Nam nec magna lacus. Etiam euismod egestas mauris
-        nec mollis. Phasellus efficitur et ex vel condimentum. Cras enim purus, tempor sed massa
-        vel, accumsan bibendum magna. Nullam hendrerit cursus purus, sit amet viverra arcu gravida vel.</div>
+      <div class="portfolio-text">I have successfully completed Python developer courses. I got knowledge in OOP, SQLlite3 database, 
+        framework Django, Git and GitHub.I learned the basics of frontend: JavaScript, HTML and CSS. I also learned the basics of 
+        writing games for Pygame, parsing and telegram bots. I'm full of energy and open to new knowledge. I am actively looking for
+        a job and I hope to be useful.</div>
       <div class="portfolio-frame">
         <div class="portfolio-image"></div>
       </div>

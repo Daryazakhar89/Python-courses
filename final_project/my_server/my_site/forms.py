@@ -11,7 +11,7 @@ class MySiteForms(ModelForm):
                 'class': 'form-control',
                 'placeholder': 'Enter your name and email ',
             }),
-            "content": TextInput(attrs={
+            "content": Textarea(attrs={
                 'class': 'form-control',
                 'placeholder': 'Enter your request ',
             }),

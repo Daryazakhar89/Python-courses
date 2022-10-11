@@ -1,5 +1,4 @@
 from django.shortcuts import render, redirect
-from .models import MySite
 from .forms import MySiteForms
 
 
