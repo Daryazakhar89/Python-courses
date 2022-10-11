@@ -12,5 +12,5 @@ class MySite(models.Model):
     class Meta:
         verbose_name = "work request"
         verbose_name_plural = "My works"
-        ordering = ['-title']
+        ordering = ['-id']
 
