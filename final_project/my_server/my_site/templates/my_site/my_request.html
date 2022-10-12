@@ -1,15 +1,13 @@
 {% extends 'my_site/main.html' %}
 {% block title %}Write me letter{% endblock title %}
-{% block home %}
-    {% include 'my_site/navigation.html' %}<br><br><br>
-    <h2 class="color-letter">Write me letter</h2>
+{% block body %}
+    {% include 'my_site/navigation.html' %}
+    <h2 class="color-letter-text">Write me letter</h2>
     <form action="" method="post">
-        {% csrf_token %}<br>
-        {{ form.title }}<br>
-        {{ form.content }}<br>
+        {% csrf_token %}
+        {{ form.title }}
+        {{ form.content }}
         <button type="submit" class="btn btn-warning">Add a record</button>
     </form>
-{% endblock home %}
-{% block about-me %}{% endblock about-me %}
-{% block portfolio %}{% endblock portfolio %}
+{% endblock body %}
 {% block footer %}{% include 'my_site/footer_content.html' %}{% endblock %}

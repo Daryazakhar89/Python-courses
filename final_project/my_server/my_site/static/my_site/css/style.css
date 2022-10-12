@@ -41,7 +41,7 @@ body.main {
     font-family: 'Arodora Pro';
     font-style: normal;
     font-weight: 300;
-    font-size: 18px;
+    font-size: 21px;
     line-height: 21px;
     display: flex;
     align-items: center;
@@ -197,18 +197,18 @@ body.main {
 
 .developer-photo {
     position: absolute;
-    transform: scale(2);
+    transform: scale(1.8);
     z-index: 1;
     width: 456px;
     height: 408px;
-    left: 284px;
-    top: 16px;
+    left: 223px;
+    top: 28px;
     filter:contrast(1.4);
     background: url("../img/my_photo1.png");
 }
 .about-me {
     position: absolute;
-    width: 1920px;
+    width: 1903px;
     height: 1847px;
     left: 0px;
     top: 787px;
@@ -577,26 +577,26 @@ body.main {
     color: white;
 }
 
-.color-letter {
-    color: white;
-}
-
 #id_title.form-control {
     width: 30% ;
     margin-left: 600px;
+    margin-top: 20px;
 }
 
 #id_content.form-control {
     width: 30%;
-    height: 100px;
+    height: 140px;
     margin-left: 600px;
+    margin-top: 20px;
 }
 
-.color-letter {
+.color-letter-text {
     color: #E2A200;
     margin-left: 750px;
+    margin-top: 50px;
 }
 
 .btn-warning {
     margin-left: 800px;
+    margin-top: 20px;
 }

@@ -12,22 +12,18 @@
 
 <body class="main">
   <div class="main-content">
-    {% block home %}
+    {% block body %}
     <div class="home">
       <header class="home-header">
         {% include 'my_site/navigation.html' %}
-        {% block home-title %}
         <div class="header-title">
           <div class="header-title-greeting">Hello</div>
           <div class="header-title-title">I'm Darya Zakhar</div>
           <div class="header-title-description">I am programming in Python, I have the skills of Django, SQL, HTML and
-            CSS.
-            Do you need a website, site design or programm in Python? Then write me</div>
+            CSS. Do you need a website, site design or programm in Python? Then write me</div>
           <a href="/my_request" class="header-title-action"><span class="header-title-action-text">Write me</span></a>
         </div>
-        {% endblock home-title %}
-        {% block home-developer %}
-        <div class="developer">
+          <div class="developer">
           <div class="developer-photo"></div>
           <div class="developer-circle">
           </div>
@@ -46,10 +42,8 @@
             <p class="developer-portfolio-button-text">SQL</p>
           </div>
         </div>
-        {% endblock home-developer %}
-      </header>
-      {% block about-me %}
-      <div id="about-me" class="about-me">
+        </header>
+       <div id="about-me" class="about-me">
         <p class="about-me-text-my-skills">My skills</p>
         <div class="about-me-skills">
           <div class="about-me-skill">
@@ -103,10 +97,7 @@
   
         </div>
       </div>
-      {% endblock about-me %}
     </div>
-    {% endblock home %}  
-    {% block portfolio %}
     <div id="portfolio-content" class="portfolio-content">
       <div class="portfolio">portfolio</div>
       <div class="portfolio-text">I successfully completed Python developer courses. I got knowledge in OOP, SQLlite3 database, 
@@ -117,14 +108,12 @@
         <div class="portfolio-image"></div>
       </div>
     </div>
-    {% endblock portfolio %}
+    {% endblock body %}
   </div>
-
   {% block footer %}
   <footer id="footer" class="footer">
     {% include 'my_site/footer_content.html' %}
   </footer>
   {% endblock footer %}
 </body>
-
 </html>
